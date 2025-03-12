@@ -9,7 +9,7 @@ Meridian bridges the gap between Solana and Ethereum-based chains by leveraging:
 - **Wormhole Protocol** for secure cross-chain messaging
 - **Smart Contract Architecture** for trustless execution across blockchains
 
-![Meridian Architecture](assets/architecture.png)
+![image](https://github.com/user-attachments/assets/07baae42-fb2e-430c-86a0-8ded43a14a80)
 
 ## Key Features
 
